@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CSS-sivu</title>
+</head>
+
+body {
+background color: blue;
+}
+</style>
+
+<style>
+body {backgroud-image: url(microphone-626618_640.jpg)}
+</style>
+
+<style>
+img {
+box-shadow: 0 0 10px 5px rgba(255,255,255,0.5);
+}
+</style>
+
+<img src="lightshow-22314_640.jpg" alt="metallimusiiki/>
+
+
+
+
+
+<main>
+<h1>musiikki<h1>
+<p>Tässä kerron millaista musiikkia kuuntelen</p>
+
+<p>Tässä lista muutamista millaista metallityyppiä pääasiassa kuuntelen</p>
+
+<ul>
+<li>Power Metal</li>
+<li>Heavy Metal</li>
+<li>Nu Metal</li>
+<li>Symphonic Metal</li>
+</ul>
+
+</main>
+
+
+
+
+
